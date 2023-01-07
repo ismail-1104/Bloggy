@@ -1,3 +1,7 @@
+#Bloggy
+Bloggy is a blog writing website made using MERN stack.
+It allows you to write and post articles.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
