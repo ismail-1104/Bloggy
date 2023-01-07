@@ -1,4 +1,5 @@
-#Bloggy
+# Bloggy
+
 Bloggy is a blog writing website made using MERN stack.
 It allows you to write and post articles.
 
